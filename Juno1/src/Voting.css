@@ -1,0 +1,86 @@
+.sell{
+    display:flex;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -50px;
+
+}
+.hell{
+        display:flex;
+        justify-content: space-evenly;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: -50px;
+       
+}
+.bell{
+    display:flex;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -50px;
+}
+.cell{
+    display:flex;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -50px;
+
+}
+.Kill{
+    width: 500px;
+    border: 10px  black solid;
+    padding: 25px;
+    margin: 20px;
+    margin-left: 450px;
+    background-image: linear-gradient(pink,rgb(60, 222, 228));
+}
+
+.oppas
+{
+    width:125px;
+    margin: 5px;
+    border:10px wheat solid;
+    margin-right: -5px;
+}
+.oppas1
+{
+    width: 125px;
+    margin: 5px;
+    border:10px wheat solid;
+}
+.oppas2
+{
+    width:125px;
+    margin: 5px;
+    border:10px wheat solid;
+}
+.oppas3
+{
+    width:125px;
+    margin: 5px;
+    border:10px wheat solid;
+    margin-right: 20px;
+
+}
+/* /* .oppas4
+{
+    width:125px;
+    margin: 5px;
+    border:10px wheat solid;} */
+
+.oppas3:hover{
+    color:pink;
+}
+
+.oppas1:hover{
+    color:pink;
+}
+.oppas2:hover{
+    color:pink;
+}
+
+.oppas:hover{
+    color:pink;
+}
+
+
+
