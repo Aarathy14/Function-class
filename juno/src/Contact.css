@@ -1,0 +1,24 @@
+.m{
+    border:5px black solid;
+    border-radius: 15px;
+    margin: auto;
+    width: 960px;
+    padding: 10px;
+    padding-bottom: 25px;
+}
+.m input[type="text"],.aa input{
+    width:300px;
+   
+}
+.aa,.bb,.cc,.dd{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ff,.ee{
+    
+    margin-left: 9%;
+}
+.ff input,.ee input{
+    width: 780px!important;
+}
